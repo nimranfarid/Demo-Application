@@ -1,0 +1,103 @@
+version: 1
+
+dn: ou=aithentggn,dc=example,dc=com
+objectClass: organizationalUnit
+objectClass: top
+ou: aithentggn
+
+dn: ou=application,dc=example,dc=com
+objectClass: organizationalUnit
+objectClass: top
+ou: application
+
+dn: ou=aithentchn,dc=example,dc=com
+objectClass: organizationalUnit
+objectClass: top
+ou: aithentchn
+
+dn: cn=muthu,ou=aithentchn,dc=example,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: muthu
+sn: krishnan
+userPassword:: e1NTSEF9UkluUDRSL1kzcER4NnZDWVVkaW1pQVNiMDI0L2R5ZktERWJSeXc9P
+ Q==
+
+dn: cn=gajendra,ou=aithentggn,dc=example,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: gajendra
+sn: jha
+userPassword:: e1NTSEF9ZlkraDBqOHEyejYrK3VLRGl3azUvVVZwd0JBejJYTE5hNVJtRFE9P
+ Q==
+
+dn: uid=aithent,dc=example,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: admin
+sn: system admin
+uid: aithent
+userPassword:: e1NTSEF9WmVGSXk3eVRrVWxjZGpHSjJQY3BraHdQemhzalZORzNLR2VvZWc9P
+ Q==
+
+dn: cn=sourabha,ou=aithentggn,dc=example,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: sourabha
+sn: skula
+userPassword:: e1NTSEF9L3V5c1dXR1lOaFRybjJrOG5HN0pISGVibXRBR1QrSUZWM2hXeFE9P
+ Q==
+
+dn: cn=mohamed,ou=aithentchn,dc=example,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: mohamed
+sn: aaqil
+userPassword:: e1NTSEF9bHdaOU92RjZnRGJ1OUNMc3ZEclhvcGtkaGV4b1l1YzYxd29aZUE9P
+ Q==
+
+dn: cn=eSecurity,ou=application,dc=example,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: eSecurity
+sn: eSec
+
+dn: cn=imran,ou=aithentchn,dc=example,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: imran
+sn: farid
+userPassword:: e1NTSEF9MEl3UEFWQzZoMjU1QTdUOExqcVRZM3lQcHp0V2hidlV5UlNJNlE9P
+ Q==
+
+dn: cn=meenal,ou=aithentggn,dc=example,dc=com
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: meenal
+sn: pruthi
+userPassword:: e1NTSEF9YXZsUkNoMnFoam1HVHNkcUdqMDBlb01RS0FqNlNUSWl4aWpIRFE9P
+ Q==
+
+dn: dc=example,dc=com
+objectclass: domain
+objectclass: top
+dc: example
+userPassword:: e1NTSEF9THYyZ01uN29WamIyN3c3OURxQTNLR2ptbHA2aEVKbzZORkx2bmc9P
+ Q==
+

@@ -1,2 +1,4 @@
+GitRepositoriesView.GitDirectories=/home/nimranfarid/git/repository/.git\:/home/nimranfarid/.git\:/home/nimranfarid/Applications/Git/.git\:
+GitRepositoriesView.GitDirectories.relative=/home/nimranfarid/git/repository/.git\:/home/nimranfarid/.git\:.git\:
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
