@@ -1,0 +1,108 @@
+!SESSION 2026-03-04 11:02:59.725 -----------------------------------------------
+eclipse.buildId=4.23.1.202406150140
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data /home/nimranfarid/Applications/Git
+
+!ENTRY ch.qos.logback.classic 1 0 2026-03-04 11:03:01.323
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-03-04 11:03:01.978
+!MESSAGE Logback config file: /home/nimranfarid/Applications/Git/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2026-03-04 11:03:02.184
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-03-04 11:03:02.184
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2026-03-04 11:03:02.407
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-03-04 11:03:02.407
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-03-04 11:03:26.872
+!MESSAGE Classpath changed for project: LDAPAuth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-03-04 11:03:27.162
+!MESSAGE Classpath changed for project: LDAPAuth
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-04 11:03:30.337
+!MESSAGE The POM for com.AithentServices:AithentServicesComponent:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-04 11:03:30.359
+!MESSAGE The POM for com.AithentServices:AithentServicesComponent:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-03-04 11:03:33.262
+!MESSAGE Classpath changed for project: LDAPAuth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-03-04 11:03:33.263
+!MESSAGE Boot project ADDED: LDAPAuth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-03-04 11:03:33.264
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-03-04 11:03:33.278
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2026-03-04 11:03:33.289
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/home/nimranfarid/Applications/Spring/spring-tool-suite-4-4.23.1.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.1.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.3.v20240426-1530/jre/bin/java
+-cp
+/home/nimranfarid/Applications/Spring/spring-tool-suite-4-4.23.1.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.1.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.1.202406141939/servers/spring-boot-language-server/BOOT-INF/classes:/home/nimranfarid/Applications/Spring/spring-tool-suite-4-4.23.1.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.1.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.1.202406141939/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/home/nimranfarid/Applications/Spring/spring-tool-suite-4-4.23.1.RELEASE-e4.32.0-linux.gtk.x86_64/sts-4.23.1.RELEASE/plugins/org.springframework.tooling.boot.ls_1.55.1.202406141939/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/nimranfarid/Applications/Git/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1772602413289
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-03-04 11:03:33.290
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2026-03-04 11:03:33.293
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 10289
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-03-04 11:03:33.297
+!MESSAGE Classpath changed for project: LDAPAuth
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-04 11:03:34.569
+!MESSAGE The POM for com.AithentServices:AithentServicesComponent:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-03-04 11:03:34.719
+!MESSAGE The POM for com.AithentServices:AithentServicesComponent:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-03-04 11:03:40.457
+!MESSAGE Could not download sources for com.AithentServices:AithentServicesComponent:0.0.1-SNAPSHOT
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.AithentServices:AithentServicesComponent:jar:sources:0.0.1-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.AithentServices:AithentServicesComponent:jar:sources:0.0.1-SNAPSHOT
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2026-03-04 11:03:40.458
+!MESSAGE Could not resolve artifact com.AithentServices:AithentServicesComponent:jar:sources:0.0.1-SNAPSHOT
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2026-03-04 11:03:40.458
+!MESSAGE Missing com.AithentServices:AithentServicesComponent:jar:sources:0.0.1-SNAPSHOT
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2026-03-04 11:03:40.495
+!MESSAGE Classpath changed for project: LDAPAuth
