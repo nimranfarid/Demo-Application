@@ -80,9 +80,35 @@ public class SecurityConfig extends WebSecurityConfiguration{
                 }
             }
 //            chain.doFilter(request, response);
+<<<<<<< HEAD
+            
+        }
+
+		@Override
+		protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response,
+				FilterChain filterChain) throws ServletException, IOException {
+			System.out.println("+++++++++++++++++++++++++++++++");
+
+			System.out.println("+++++++++++++++++++++++++++++++");
+
+			System.out.println("+++++++++++++++++++++++++++++++");
+
+			System.out.println("+++++++++++++++++++++++++++++++");
+
+			System.out.println("+++++++++++++++++++++++++++++++");
+
+			System.out.println("+++++++++++++++++++++++++++++++");
+
+			System.out.println("+++++++++++++++++++++++++++++++");
+
+			// TODO Auto-generated method stub
+			
+		}			
+=======
         }
 
 		
+>>>>>>> Demo
 		}
 }
 
